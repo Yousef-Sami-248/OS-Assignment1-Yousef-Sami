@@ -32,68 +32,68 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [March 24, 2026, 4:00 PM]
+**Forked the project and set up my ID**: 
 
-**Details**: 
+**I created a GitHub account**: 
 
-**Challenges**: 
+**I couldn't run the code in VS Code at first because it said "Java not found"**: 
 
-**Solution**: 
+**I had to install the Java Extension Pack and make sure the JDK was correct**: 
 
-**Time spent**: 
-
----
-
-### Entry 2 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+**30min-45min**: 
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 2 - [March 25, 2026, 7:30 PM]
+**Understanding the starter code logic**: 
 
-**Details**: 
+**I spent time reading the code**: 
 
-**Challenges**: 
+**I didn't understand some parts of the code**: 
 
-**Solution**: 
+**asked Gemini to explain the code to me step-by-step, which helped me understand**: 
 
-**Time spent**: 
+**1 hour**: 
+
+---
+
+### Entry 3 - [March 26, 2026, 4:00 PM]
+**Added the "Priority" feature to the processes**: 
+
+**I added a priority variable to the Process class and made it generate a random number between 1 and 5**: 
+
+**the program stopped working and gave me a "Compiler Error"**: 
+
+**i asked gemini **: 
+
+**1 hour**: 
 
 ---
 
 ### Entry 4 - [Date and Time]
-**What I did**: 
+**Testing the program with my ID**: 
 
-**Details**: 
+**ran the program several times to make sure it generates the 5 processes correctly based on my student ID**: 
 
-**Challenges**: 
+*nothing**: 
 
-**Solution**: 
+**no need **: 
 
-**Time spent**: 
+**30 min**: 
 
 ---
 
 ### Entry 5 - [Date and Time]
-**What I did**: 
+**ormatting the output table**: 
 
-**Details**: 
+**I checked the final results in the terminal to make sure all process names and times are clear after fixing the color issue**: 
 
-**Challenges**: 
+**ven after fixing the symbols, the table columns were not aligned and looked disorganized**: 
 
-**Solution**: 
+**i added some extra spaces in the System.out.println so the numbers line up properly under the headers.**: 
 
-**Time spent**: 
+**45 min?**: 
 
 ---
 
@@ -116,6 +116,6 @@ Document your development process as you work on the assignment. Add entries sho
 
 **Most challenging part**: 
 
-**Most interesting learning**: 
+**I learned how the CPU actually switches between different tasks veeery quickly using "Time Quantum" so it looks like everything is running at the same time**: 
 
-**What I would do differently next time**: 
+**i dont know really**: 
