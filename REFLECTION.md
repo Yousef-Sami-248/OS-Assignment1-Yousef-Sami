@@ -9,7 +9,8 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
+[I learned that multithreading allows a program to run multiple tasks at the same time I also used Thread.start() to begin the simulation and Thread.join() to ensure the main thread wait for each quantum to finish
+It was very useful and intersting to see how threads move between states like "Ready" in the processQueue and "Running" on the CPU]
 
 ---
 
@@ -17,7 +18,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
+[It was very useful to see how threads move between states like "Ready" in the processQueue and "Running" on the CPU I spent a lot of time watching YouTube tutorials to fix configuration issues before I could even run the code and Ensuring that each feature was added in a separate Git commit also required a lot of focus and planning]
 
 ---
 
@@ -25,7 +26,9 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
+[To solve the VS Code issues, I followed step-by-step guides on YouTube and installed the necessary Java language packs and When I got stuck on the code logic,  somtimes I used AI tools to solve some proplems or help me understand.
+
+Breaking the assignment into small tasks helped me focus on one feature at a time until everything was finished]
 
 ---
 
@@ -33,7 +36,10 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Give specific examples from real applications you use (web browsers, games, mobile apps, etc.). Explain why threads are useful in those scenarios. Connect to what you learned in this assignment.]
+[Multithreading is used in almost every modern application to handle multiple tasks at the same time
+For example in video games like Counter-Strike one thread can handle the graphics while another handles the physics and player inputs This ensures that the game runs smoothly 
+
+Learning these concepts will help me build better software that can handle many tasks easilyy]
 
 ---
 
@@ -47,7 +53,7 @@ Answer the following questions about your learning experience. Each answer shoul
 
 ### How confident do you feel about multithreading concepts now?
 
-[Rate yourself and explain: Beginner / Intermediate / Confident]
+[I would rate myself a Beginner because this is my first time working with thread simulations. This assignment helped me understand the basics]
 
 [Explain your rating - what do you understand well? What needs more practice?]
 

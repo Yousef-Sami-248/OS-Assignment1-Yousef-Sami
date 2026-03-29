@@ -32,81 +32,81 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [March 24, 2026, 4:00 PM]
+**Forked the project and set up my ID**: 
 
-**Details**: 
+**I created a GitHub account**: 
 
-**Challenges**: 
+**I couldn't run the code in VS Code at first because it said "Java not found"**: 
 
-**Solution**: 
+**I had to install the Java Extension Pack and make sure the JDK was correct**: 
 
-**Time spent**: 
-
----
-
-### Entry 2 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+**30min-45min**: 
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 2 - [March 25, 2026, 7:30 PM]
+**Understanding the starter code logic**: 
 
-**Details**: 
+**I spent time reading the code**: 
 
-**Challenges**: 
+**I didn't understand some parts of the code**: 
 
-**Solution**: 
+**asked Gemini to explain the code to me step-by-step, which helped me understand**: 
 
-**Time spent**: 
-
----
-
-### Entry 4 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+**1 hour**: 
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 3 - [March 26, 2026, 4:00 PM]
+**Added the "Priority" feature to the processes**: 
 
-**Details**: 
+**I added a priority variable to the Process class and made it generate a random number between 1 and 5**: 
 
-**Challenges**: 
+**the program stopped working and gave me a "Compiler Error"**: 
 
-**Solution**: 
+**i asked gemini **: 
 
-**Time spent**: 
+**1 hour**: 
+
+---
+
+### Entry 4 - [March 28, 2026, 9:00 PM]
+**Testing the program with my ID**: 
+
+**ran the program several times to make sure it generates the 5 processes correctly based on my student ID**: 
+
+*nothing**: 
+
+**no need **: 
+
+**30 min**: 
+
+---
+
+### Entry 5 - [March 29, 2026, 9:00 AM]
+**ormatting the output table**: 
+
+**I checked the final results in the terminal to make sure all process names and times are clear after fixing the color issue**: 
+
+**ven after fixing the symbols, the table columns were not aligned and looked disorganized**: 
+
+**i added some extra spaces in the System.out.println so the numbers line up properly under the headers.**: 
+
+**45 min?**: 
 
 ---
 
 ### Entry 6 - [Optional - Date and Time]
-**What I did**: 
+**Final review**: 
 
-**Details**: 
+**: I checked all the files (REFLECTION.md, ANSWERS.md, and the Java code)**: 
 
-**Challenges**: 
+**I found some small typing mistakes in my English sentences**: 
 
-**Solution**: 
+**used Gemini to check my grammar and make the sentences clearer so the teacher can understand my points**: 
 
-**Time spent**: 
+**20 min**: 
 
 ---
 
@@ -116,6 +116,6 @@ Document your development process as you work on the assignment. Add entries sho
 
 **Most challenging part**: 
 
-**Most interesting learning**: 
+**I learned how the CPU actually switches between different tasks veeery quickly using "Time Quantum" so it looks like everything is running at the same time**: 
 
-**What I would do differently next time**: 
+**i dont know really**: 
