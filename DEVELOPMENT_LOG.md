@@ -71,7 +71,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 4 - [Date and Time]
+### Entry 4 - [March 28, 2026, 9:00 PM]
 **Testing the program with my ID**: 
 
 **ran the program several times to make sure it generates the 5 processes correctly based on my student ID**: 
@@ -84,7 +84,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 5 - [Date and Time]
+### Entry 5 - [March 29, 2026, 9:00 AM]
 **ormatting the output table**: 
 
 **I checked the final results in the terminal to make sure all process names and times are clear after fixing the color issue**: 
@@ -98,15 +98,15 @@ Document your development process as you work on the assignment. Add entries sho
 ---
 
 ### Entry 6 - [Optional - Date and Time]
-**What I did**: 
+**Final review**: 
 
-**Details**: 
+**: I checked all the files (REFLECTION.md, ANSWERS.md, and the Java code)**: 
 
-**Challenges**: 
+**I found some small typing mistakes in my English sentences**: 
 
-**Solution**: 
+**used Gemini to check my grammar and make the sentences clearer so the teacher can understand my points**: 
 
-**Time spent**: 
+**20 min**: 
 
 ---
 
