@@ -32,20 +32,20 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [March 24, 2026, 4:00 PM]
-**Forked the project and set up my ID**: 
+### Entry 1 - [March 26, 2026, 4:00 PM]
+**I set up my ID and forked the project:**: 
 
-**I created a GitHub account**: 
+** made an account on GitHub**: 
 
-**I couldn't run the code in VS Code at first because it said "Java not found"**: 
+**At first, I was unable to execute the code in Visual Studio Code due to the error "Java not found"**: 
 
 **I had to install the Java Extension Pack and make sure the JDK was correct**: 
 
-**30min-45min**: 
+**30 to 45 min**: 
 
 ---
 
-### Entry 2 - [March 25, 2026, 7:30 PM]
+### Entry 2 - [March 27, 2026, 7:30 PM]
 **Understanding the starter code logic**: 
 
 **I spent time reading the code**: 
@@ -58,7 +58,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 3 - [March 26, 2026, 4:00 PM]
+### Entry 3 - [March 29, 2026, 7:00 PM]
 **Added the "Priority" feature to the processes**: 
 
 **I added a priority variable to the Process class and made it generate a random number between 1 and 5**: 
@@ -71,20 +71,20 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 4 - [March 28, 2026, 9:00 PM]
+### Entry 4 - [March 30, 2026, 9:00 PM]
 **Testing the program with my ID**: 
 
-**ran the program several times to make sure it generates the 5 processes correctly based on my student ID**: 
+**ran the program several times **: 
 
 *nothing**: 
 
 **no need **: 
 
-**30 min**: 
+**15 min**: 
 
 ---
 
-### Entry 5 - [March 29, 2026, 9:00 AM]
+### Entry 5 - [March 30, 2026, 9:00 AM]
 **ormatting the output table**: 
 
 **I checked the final results in the terminal to make sure all process names and times are clear after fixing the color issue**: 
