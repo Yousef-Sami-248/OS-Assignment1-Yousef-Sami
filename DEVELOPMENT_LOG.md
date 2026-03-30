@@ -97,7 +97,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 6 - [Optional - Date and Time]
+### Entry 6 - [March 30, 2026, 9:00 AM]
 **Final review**: 
 
 **: I checked all the files (REFLECTION.md, ANSWERS.md, and the Java code)**: 
